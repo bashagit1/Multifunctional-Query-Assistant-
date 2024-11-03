@@ -1,0 +1,5 @@
+streamlit
+openai
+SimplerLLM      # Assumed package version for the SimplerLLM library
+python-dotenv 
+lxml[html_clean]
